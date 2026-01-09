@@ -72,7 +72,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
   
 # 👨‍💻 Service
 - Area Chair: KDD 2025, KDD 2026
-- Reviewer: KDD 2025, NeurIPS 2025, MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026, CVPR 2026
+- Reviewer: KDD 2025, NeurIPS 2025, MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026, CVPR 2026, ICML 2026
 
 # 🥇 Honors and Awards
 - *2024.12*, Huawei Scholarship
