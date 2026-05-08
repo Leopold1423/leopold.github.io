@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a PhD student in the Intelligent and Distributed Computing ([IDC](https://idc.hust.edu.cn/index.htm)) Laboratory of Huazhong University of Science and Technology (HUST), 
-under the supervision of Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm) and Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html). 
+under the supervision of Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
+ <!-- and Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html).  -->
 Before joining HUST, I got my bachelor's degree in Beijing University of Posts and Telecommunications (BUPT).
 
 My primary research focuses on Efficient Intelligent Computing, encompassing multiple directions such as data selection, model compression, communication compression, training optimization, and inference optimization, with applications spanning recommender systems, federated learning, and large language models.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Three papers were accepted by ICML 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by TPDS.
@@ -35,9 +37,10 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 # 📃 Publications 
 
 1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity</u>. The 14th International Conference on Learning Representations (**ICLR**), Rio de Janeiro, Brazil, April 23rd–27th, 2026. (**CAAI-A**) 
-<!-- [[paper]](https://arxiv.org/abs/2510.23123) [[code]](https://github.com/Leopold1423/toplora-neurips25) -->
+[[paper]](https://arxiv.org/abs/2508.06953) [[code]](https://github.com/Leopold1423/bora-iclr26)
 
 3. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), San Diego, USA, December 2–7, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2510.23123) [[code]](https://github.com/Leopold1423/toplora-neurips25)
+   
 4. **Shiwei Li**, Qunwei Li, Haozhao Wang, Ruixuan Li<sup>†</sup>, Jianbin Lin, Wenliang Zhong. <u>FedBiF: Communication-Efficient Federated Learning via Bits Freezing</u>. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025, 36(12): 2668–2678. (**CCF-A**) [[paper]](https://arxiv.org/abs/2509.10161) [[code]](https://github.com/Leopold1423/fedbif-tpds25)
 5. **Shiwei Li**<sup>\*</sup>, Xiandi Luo<sup>\*</sup>, Haozhao Wang<sup>†</sup>, Xing Tang<sup>†</sup>, Hao Chen, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics.</u> The 42nd International Conference on Machine Learning (**ICML**), Vancouver, Canada, July 13-19, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2505.23194) [[code]](https://github.com/Leopold1423/non_zero_lora-icml25)
 6. **Shiwei Li**<sup>\*</sup>, Xiandi Luo<sup>\*</sup>, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning.</u> The 42nd International Conference on Machine Learning (**ICML**), Vancouver, Canada, July 13-19, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2505.23176) [[code]](https://github.com/Leopold1423/fedmud-icml25)
@@ -74,7 +77,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
   
 # 👨‍💻 Service
 - Area Chair: KDD 2025, KDD 2026
-- Reviewer: KDD 2025, NeurIPS 2025, MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026, CVPR 2026, ICML 2026, IJCAI 2026
+- Reviewer: KDD 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026, CVPR 2026, KDD 2026, ICML 2026, IJCAI 2026, ACM MM 2026
 
 # 🥇 Honors and Awards
 - *2024.12*, Huawei Scholarship
