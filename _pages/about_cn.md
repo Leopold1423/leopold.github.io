@@ -25,9 +25,9 @@ Before that, I received my bachelor's degree from Beijing University of Posts an
 My current research interests center on video generation and reinforcement learning. I am open to collaboration and welcome inquiries about internship opportunities. You can also reach me on WeChat: `Leopold0909`.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2026.
-- *2025.09*: &nbsp;🎉🎉 Three papers were accepted by ICML 2026.
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026.
+- *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2026.
+- *2026.04*: &nbsp;🎉🎉 Three papers were accepted by ICML 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by TPDS.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by KDD 2025 ADS Track.
