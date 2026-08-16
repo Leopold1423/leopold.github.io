@@ -68,7 +68,7 @@ My current research interests center on video generation and reinforcement learn
 - *2017.09 - 2021.06*, B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
  -->
 
-/
+
 <!-- # 💻 Internships
 - *2023.06 - 2025.08*, Tencent Financial Technology, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://he-Xiuqiang.github.io/).
 - *2021.10 - 2022.09*, Huawei Noah's Ark Lab, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Lu Hou](https://houlu369.github.io/), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/). 
