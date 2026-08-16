@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiwei Li (李世伟)"
   avatar           : "images/photo-512x512.jpg"
-  bio              : "Huazhong University of Science and Technology"
-  location         : "Wuhan, China"
+  bio              : "Alibaba Group"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H0egTIsAAAAJ"
